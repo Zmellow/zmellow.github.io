@@ -1,0 +1,18 @@
+p, body{
+    margin: 1px 15px;
+}
+
+article{
+    border: 2px solid red;
+    border-radius: 10px;
+    color: black;
+    background-color: green;
+}
+div{
+    margin: 20px auto;
+    width: 450px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
