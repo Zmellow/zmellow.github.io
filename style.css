@@ -16,3 +16,37 @@ div{
     border-radius: 5px;
 }
 
+
+header>div {
+    text-align: center;
+    border: 2px solid #135716;
+    border-radius: 5px;
+    background-color: #3b9e3e;
+    display: inline-block;
+    cursor: pointer;
+}
+
+div {
+    padding: 15px 10px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width: 31%;
+  }
+  
+  div:hover {background-color: #3e8e41}
+  
+  div:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  #s404{
+    width: 50%;
+  }
